@@ -1,4 +1,0 @@
-hello, world! 
-This is INSERT mode now. 
-If you change your mode from INSERT to NORMAL, please put escape key.
-
