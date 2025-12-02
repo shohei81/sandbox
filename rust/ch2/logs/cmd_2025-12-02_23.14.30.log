@@ -1,0 +1,10 @@
+   104.7ms (setup:1113): 2025-12-02 23:14:30
+   104.8ms (setup:1114): /opt/homebrew/bin/pipx
+   104.9ms (setup:1115): pipx version is 1.8.0
+   104.9ms (setup:1116): Default python interpreter is '/opt/homebrew/opt/python@3.13/libexec/bin/python'
+   105.0ms (mkdir:76): creating directory /Users/shohei/dev/sandbox/rust/ch2/venvs
+   105.2ms (mkdir:76): creating directory /Users/shohei/dev/sandbox/rust/ch2/.cache
+   105.4ms (mkdir:76): creating directory /Users/shohei/dev/sandbox/rust/ch2/py
+   105.6ms (setup:1130): Adding CACHEDIR.TAG to cache directory
+   105.9ms (setup:1130): Adding CACHEDIR.TAG to cache directory
+   107.2ms (cli:1192): pipx finished.
