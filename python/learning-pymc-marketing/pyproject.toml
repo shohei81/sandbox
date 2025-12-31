@@ -1,0 +1,10 @@
+[project]
+name = "learning-pymc-marketing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "marimo[recommended]>=0.18.4",
+    "pymc-marketing>=0.17.1",
+]
